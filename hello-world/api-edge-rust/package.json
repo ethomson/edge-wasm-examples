@@ -1,0 +1,6 @@
+{
+  "name": "api-edge-rust",
+  "devDependencies": {
+    "vercel": "27.4.0"
+  }
+}
